@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá! sou o Pedro👋
 
-<!--
-**viannaxy/viannaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-viana-81763b34a/)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viannaxy&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viannaxy&stats_format=bytes&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu utilizo
+
+<div sytle="display: inline=block"><br/>
+    <img alingnm= center alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow" />
+    <img alingnm= center alt="html5" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</div>
