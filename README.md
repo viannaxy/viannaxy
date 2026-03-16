@@ -11,3 +11,4 @@
     <img alingnm= center alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow" />
     <img alingnm= center alt="html5" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </div>
+
